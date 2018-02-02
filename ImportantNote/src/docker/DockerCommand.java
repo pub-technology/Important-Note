@@ -22,7 +22,7 @@ public class DockerCommand {
 	/**
 	 * <h3>$ docker info</h3>
 	 * <h4>Note: To avoid permission errors (and the use of sudo), add your user to the docker group. </h4>
-	 * <img src="../index-files/dockerinfo.png" alt="docker info">
+	 * <img src="../public-files/dockerinfo.png" alt="docker info">
 	 */
 	public String View_Doker_Info;
 	
@@ -47,4 +47,11 @@ public class DockerCommand {
 	 * <h4>List Docker containers (running, all, all in quiet mode)</h4>
 	 */
 	public String List_Docker_Containers__Running_all_And_all_in_quiet_mode__;
+	
+	
+	/**
+	 * Basic Command
+	 * <img src="../public-files/basic-command-docker1.png" alt="docker info">
+	 */
+	public String Basic_Docker_Commands;
 }
